@@ -1,0 +1,10 @@
+#plants {
+    background: linear-gradient(red, yellow);
+    
+}
+img {
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+flex-direction: row-reverse
+}
